@@ -1,0 +1,10 @@
+$bgColor: rgb(1, 39, 255);
+$bgTextColor: blue;
+
+body {
+    background-color: $bgColor;
+}
+
+h1 {
+    color: $bgTextColor;
+}
